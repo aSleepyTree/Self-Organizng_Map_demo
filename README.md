@@ -1,4 +1,4 @@
-# Self-Organizng_Map_demo
+# Self-Organizng_Map_demo 自组织映射网络(SOM)的学习及简单应用
 
 
 
@@ -6,8 +6,6 @@
 
 
 
-
-##自组织映射网络(SOM)的学习及简单应用
 
 
 
